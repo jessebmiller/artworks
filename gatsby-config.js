@@ -11,8 +11,7 @@ module.exports = {
       instagram: "https://instagram.com/jesse_works"
     },
     commerce: {
-      etsy: "https://www.etsy.com/shop/jessebmiller",
-      redbubble: "https://www.redbubble.com/shop/ap/119513202",
+      etsy: "https://www.etsy.com/shop/jessebmiller"
     },
   },
   plugins: [
