@@ -23,7 +23,6 @@ const Bio = () => {
           }
           commerce {
             etsy
-            redbubble
           }
         }
       }
@@ -52,7 +51,7 @@ const Bio = () => {
             Follow along on Instagram
           </a>
           <br /><br />
-          Find my work on <a href={commerce.etsy}>Etsy</a> and <a href={commerce.redbubble}> Redbubble </a>
+          Find my work on <a href={commerce.etsy}>Etsy</a>.
         </p>
       )}
     </div>
